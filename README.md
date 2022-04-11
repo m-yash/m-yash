@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Yash Mistry
 - 👀 I’m interested in Python, Django-Framework, Linux, Web Development and much more.
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me ![twitter](https://twitter.com/thatyash_)
+- 📫 How to reach me ![twitter](https://user-images.githubusercontent.com/61091300/162694299-a128462e-eb23-4502-a645-b8752ec0332a.png)(https://twitter.com/thatyash_)
+
 
 
 
