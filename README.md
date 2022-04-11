@@ -1,11 +1,19 @@
 - 👋 Hi, I’m Yash Mistry
 - 👀 I’m interested in Python, Django-Framework, Linux, Web Development and much more.
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me ![icons8-twitter](https://user-images.githubusercontent.com/61091300/162694758-82f778b2-7735-491c-9baf-fb07dacd41ee.gif width='16px')
+- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 
 
+<!-- Icons -->
 
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/thatyash_
+[2]: https://www.linkedin.com/in/yash-mistry-80b836149/
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
