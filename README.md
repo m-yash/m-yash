@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👋 Hi, I’m Yash Mistry
+- 👋 Hi, I’m **Yash Mistry**.
 - 👀 I’m interested in Python, Django-Framework, Linux, Web Development and much more.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently trying my hands on Flutter.
 - 📫 You can find me on [![Twitter][1.2]][1], [![LinkedIn][2.2]][2].
 
 
